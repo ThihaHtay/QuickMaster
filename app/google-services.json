@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449834239545",
+    "project_id": "quickchat-backend",
+    "storage_bucket": "quickchat-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449834239545:android:1c52d0516124fc9d1a6fe8",
+        "android_client_info": {
+          "package_name": "com.thiha.quickchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovDVt7Fcp4bbw16k-Rh2kqdYO9dn31kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
